@@ -17,7 +17,7 @@ public class AnaSinif {
 			
 			bl.BasaElemanEkle(new Eleman(1234567, 2005, "Sümeyye","Açıkgöz"));
 			bl.ListeYazdir();
-			System.out.println("🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧");
+			System.out.println("🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧🫧");
 			System.out.println("sona eleman ekliyoruz");
 			bl.SonaElemanEkle(new Eleman(3746034, 1980, "Nurdan","AÇIKGÖZ"));
 			bl.SonaElemanEkle(new Eleman(16536532,1978,"İdris","AÇIKGÖZ"));
@@ -39,7 +39,7 @@ public class AnaSinif {
 
 			switch (secim) {
 			case 1 :
-				bl.ListedeAra(2003);
+				bl.ListedeAra(2002);
 			    break;
 
 			case 2 :
